@@ -1,6 +1,20 @@
 # StepWise 🧠
 # ![Logo](./Frontend/src/logo.png)
 
+## 🏆 Best Digital Automation Project – WinHacks 2025  
+
+StepWise was awarded **Best Digital Automation Project** at **WinHacks 2025**, recognized for its intelligent task management and seamless workflow automation.  
+
+🔗 **Check it out on Devpost:** [StepWise on Devpost](https://devpost.com/software/stepwise)  
+
+### Built With 🔧  
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![ICalendar (ICS)](https://img.shields.io/badge/ICalendar-FF4500.svg?style=for-the-badge)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+
 **Note:** This project was done in collaboration with [Jalees Bajwa](https://github.com/jaleesbajwa55) at WinHacks Hackathon, [Repository](https://github.com/jaleesbajwa55/StepWise) was used for coding from same workingspace. This is a refined repository for archiving the project and presenting it.
 
 ### Built With 🔧  
@@ -10,7 +24,7 @@
 An intelligent scheduling web application that integrates Google Calendar and utilizes the Gemini API to break down projects efficiently.
 
 ## 🎥 Demo Video
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the video](https://youtu.be/1o1mRxkQ1lo)
 
 ## 🌟 Features
 - Google Calendar integration
