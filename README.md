@@ -1,5 +1,5 @@
 # StepWise 🧠
-# ![Logo](./Frontend/src/logo.png?s=100)
+# ![Logo](./Frontend/src/logo.png?s=10)
 
 ## 🏆 Best Digital Automation Project – WinHacks 2025  
 
