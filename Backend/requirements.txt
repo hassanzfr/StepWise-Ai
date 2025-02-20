@@ -1,0 +1,9 @@
+﻿Flask==3.1.0
+Flask-Cors==5.0.0
+google==3.0.0
+google-ai-generativelanguage==0.6.15
+google-genai==0.1.0
+google-generativeai==0.8.4
+python-dotenv==0.20.0
+pytz==2022.7.1
+Werkzeug==3.1.3
