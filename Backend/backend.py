@@ -1,7 +1,7 @@
 # Backend (app.py)
-from flask import Flask, request, jsonify
 from flask_cors import CORS
 from google import genai
+from flask import Flask, request, jsonify
 from datetime import datetime, timedelta
 import pytz
 import os
