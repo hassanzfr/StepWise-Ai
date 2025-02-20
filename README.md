@@ -1,5 +1,4 @@
-# StepWise 🧠
-# ![Logo](./Frontend/src/logo.png?s=10)
+# StepWise <img src="./Frontend/src/logo.png" alt="StepWise Logo" width="150">
 
 ## 🏆 Best Digital Automation Project – WinHacks 2025  
 
