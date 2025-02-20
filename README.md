@@ -1,5 +1,5 @@
 # StepWise 🧠
-# ![Logo](./Frontend/src/logo.png)
+# ![Logo](./Frontend/src/logo.png?s=100)
 
 ## 🏆 Best Digital Automation Project – WinHacks 2025  
 
@@ -89,3 +89,6 @@ git push heroku main
 
 ### 📩 Contact
 For inquiries, reach out to `hz.hassanzafar@gmail.com`.
+
+### Credits
+[Jalees Bajwa](https://github.com/jaleesbajwa55)
