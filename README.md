@@ -34,8 +34,6 @@ An intelligent scheduling web application that integrates Google Calendar and ut
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/touring-company.git
-cd touring-company
 
 # Install frontend dependencies
 cd frontend
@@ -66,25 +64,6 @@ npm start
 | `/schedule`   | POST   | AI-based project breakdown |
 | `/events`     | GET    | Fetch calendar events       |
 
-## 🚀 Deployment
-To deploy the application, use Docker or cloud services like Vercel, AWS, or Firebase.
-
-### Using Docker
-```bash
-docker-compose up --build
-```
-
-### Deploying Frontend (Vercel)
-```bash
-vercel --prod
-```
-
-### Deploying Backend (Heroku)
-```bash
-git push heroku main
-```
-
----
 
 ### 📩 Contact
 For inquiries, reach out to `hz.hassanzafar@gmail.com`.
